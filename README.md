@@ -1,11 +1,7 @@
 # Michael
-The website of Michael Kuegeler
 
-## About
-About me
-## CV
-Resume
-## Projects
-
-
+## English
+The site in English language
+## Deutsch
+Die Seite in deutscher Sprache
 
